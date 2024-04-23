@@ -1,4 +1,4 @@
 # merorepo
 This is  mero repo
 <br>
-Author - Shubham Shrestha
+Author - Shubham Shrestha(Jalajala)
